@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "plafond_journalier": 2000000,
+  "comptes": [
+    {"cle": "rasoa",   "titulaire": "Rasoa Ravelo",        "telephone": "0321111111", "code_pin": "1111", "role": "CLIENT", "solde": 500000},
+    {"cle": "andry",   "titulaire": "Andry Rakoto",        "telephone": "0332222222", "code_pin": "2222", "role": "CLIENT", "solde": 300000},
+    {"cle": "hery",    "titulaire": "Hery Rabe",           "telephone": "0343333333", "code_pin": "3333", "role": "CLIENT", "solde": 10000000},
+    {"cle": "agent",   "titulaire": "Agent Analakely",     "telephone": "0384444444", "code_pin": "4444", "role": "AGENT",  "solde": 0},
+    {"cle": "admin",   "titulaire": "Administrateur",      "telephone": "0385555555", "code_pin": "5555", "role": "ADMIN",  "solde": 0},
+    {"cle": "miora",   "titulaire": "Miora Ranaivo",       "telephone": "0346666666", "code_pin": "6666", "role": "CLIENT", "solde": 5000},
+    {"cle": "plafond", "titulaire": "Compte plafond test", "telephone": "0347777777", "code_pin": "7777", "role": "CLIENT", "solde": 10000000}
+  ]
+}
